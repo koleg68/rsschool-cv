@@ -1,4 +1,4 @@
-![](/Users/olegon/Pictures/Oleg.JPG)
+![](/Users/olegon/Pictures/olegon.jpg)
 
 ### My name:
 
