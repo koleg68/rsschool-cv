@@ -1,4 +1,4 @@
-![](C:\Users\olegon\Pictures\Oleg.JPG)
+![](/Users/olegon/Pictures/Oleg.JPG)
 
 ### My name:
 
