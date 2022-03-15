@@ -8,7 +8,7 @@
 
 ### Connect to me:
 
-[Telegramm:](https://t.me/ok_kov), phone: +79219326538
+[Telegramm](https://t.me/ok_kov), phone: +79219326538
 
 ---
 
@@ -27,7 +27,7 @@ My life position is the constant development of the intellectual and physical. I
 - Gulp
 - Photoshop
 
-Here is an exsample of my [first project:](https://koleg68.github.io/template_mob/) This is just a template of webpage.
+Here is an example of my [first project:](https://koleg68.github.io/template_mob/) This is just a template of webpage.
 
 ---
 
