@@ -1,2 +1,3 @@
 # rsschool-cv
-this repo is for study in rss-school only
+
+https://koleg68.github.io/rsschool-cv/cv
